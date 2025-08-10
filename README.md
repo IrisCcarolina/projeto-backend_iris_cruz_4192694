@@ -26,7 +26,8 @@ Como rodar localmente
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repo.git  
+git clone   https://github.com/IrisCcarolina/projeto-backend_iris_cruz_4192694/tree/master.git
+
 cd seu-repo
 
 
